@@ -21,7 +21,7 @@
 <p align="center">Lic. Sonia Elizabeth Román Flores</p>
 
 <p align="justify">En este repositorio se encuentra la API con la cual se podrán almacenar y consultar los datos referentes a los sensores que estarán
-en todo momento monitoreando los signos vitales de pacientes que se encuentren en reposo desde su hogar.
+en todo momento monitoreando los signos vitales (pulso cardiaco/electrocardiograma, temperatura corporal y saturación de oxígeno en la sangre) de pacientes que se encuentren en reposo desde su hogar.
 
 Se hizo uso de Node.Js así como de diversos paquetes para montar el servidor (Express.JS), driver para conectar a la API
 con MongoDB (Mongoose), el uso de Body-parser es indispensable para leer las peticiones que vienen desde el programa en Arduino
