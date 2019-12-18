@@ -1,4 +1,4 @@
-Tecnológico Nacional de México
+<p align="center">Tecnológico Nacional de México</p>
 
 Instituto Tecnológico de San Juan del Río
 
