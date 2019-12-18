@@ -27,4 +27,4 @@ Se hizo uso de Node.Js así como de diversos paquetes para montar el servidor (E
 con MongoDB (Mongoose), el uso de Body-parser es indispensable para leer las peticiones que vienen desde el programa en Arduino
 con formato JSON.</p>
 
-@z.1laR
+<p align="center">© 2019 | Todos los derechos reservados | Hecho de ♥ por ITSJR Research & @z.1laR</p>
