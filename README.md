@@ -1,4 +1,4 @@
-<p align="center"><img src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwiH1_H2_77mAhVEUK0KHd0FAdAQjRx6BAgBEAQ&url=https%3A%2F%2Fsites.google.com%2Fsite%2Fecoblockitsjr2012%2Fgeneral-information%2Fla-empresa&psig=AOvVaw07_GzEgkYkTwjKIKZdPnQo&ust=1576751693026242"></p>
+<p align="center"><img src="https://sites.google.com/site/ecoblockitsjr2012/_/rsrc/1467088772182/general-information/la-empresa/Logo_ITSJR_-_Completo.jpg?height=282&width=264"></p>
 
 <p align="center"><b>Tecnológico Nacional de México</b></p>
 
@@ -6,7 +6,7 @@
 
 <p align="center"><b>Ingeniería en Sistemas Computacionales</b></p>
 
-<p align="center"><b>SISTEMA DE MONITOREO DE LA SALUD A DISTANCIA Y EN TIEMPO REAL MEDIANTE TECNOLOGÍA IOT</b></p>
+<p align="center"><b>SISTEMA DE MONITOREO DE LA SALUD A DISTANCIA <br> Y EN TIEMPO REAL MEDIANTE TECNOLOGÍA IOT</b></p>
 
 <p align="center"><b>P R E S E N T A:</b></p>
 
